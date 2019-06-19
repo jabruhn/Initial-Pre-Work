@@ -4,36 +4,35 @@
 
 ## When we hit https://www.techtonic.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions in general terms/steps.
 
-put your answer here
+An address or location is typed into the browser. The location is the server that is being requested. The page that is viewed allows for direction to different pages of information and/or locations for concise information, which may include data, applications or storage capability.
 
 ## From start to finish, how does data reach you to be rendered in the browser?
 
-put your answer here
+after requesting specific information to the server, the server then generates the specific information that is readable to the browser by way of code.
 
 ## What code is rendered in the browser?
 
-put your answer here
+html, css and javascript
 
 ## What is the server-side code’s main function?
 
-put your answer here
-
+provide requested information to client and maintain server integrity (e.g security, encryption, licensing and reliability)
 ## What is the client-side code’s main function?
 
-put your answer here
+promote usability and functionality
 
 ## What is runtime?
 
-put your answer here
+Runtime is when a program is running ( or being executable). In some programming languages certain reusable programs or "routines" are built and packaged as a runtime library.
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
-put your answer here
+As long as their is access to the internet, client side assets are created continuously (e.g. new functions, data storage, and security).
 
 ## How many instances of the server-side code are available at any given time?
 
-put your answer here
+I did not research this, but I would say one at a time per client. Many clients however can access different code depending on tree outcome and server capacity.
 
 ## How many instances of the databases connected to the server application are created?
 
-put your answer here
+It depends on server side coding and its complexity. Again not researched.
